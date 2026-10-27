@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "79NXR85DJ6.com.chasnolte.budget",
+        "appIDs": ["79NXR85DJ6.com.chasnolte.budget"],
+        "paths": ["/plaid/*"],
+        "components": [
+          { "/": "/plaid/*", "comment": "Plaid OAuth: banks send you back to Budget here" }
+        ]
+      }
+    ]
+  }
+}
